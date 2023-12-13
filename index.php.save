@@ -1,0 +1,4 @@
+<?php
+echo "Bonjour, ceci est un fichier PHP créé sous Linux!";
+?>
+
