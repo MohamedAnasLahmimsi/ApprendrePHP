@@ -12,6 +12,7 @@
             <?php echo("Celle-ci a été écrite entièrement en PHP. yes"); 
             $monNom="Anas";
             echo '<br>Bonjour ' .$monNom. ' et bienvenu!'; ?>
+            on rajoute quelque chose pourquoi pas
         </p>
     </body>
 </html>
