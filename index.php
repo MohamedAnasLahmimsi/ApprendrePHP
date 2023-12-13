@@ -13,6 +13,7 @@
             $monNom="Anas";
             echo '<br>Bonjour ' .$monNom. ' et bienvenu!'; ?>
             on rajoute quelque chose pourquoi pas
+            et de nouveau
         </p>
     </body>
 </html>
