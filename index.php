@@ -15,10 +15,10 @@
             on rajoute quelque chose pourquoi pas
             et de nouveau
             rebonjour
-<<<<<<< HEAD
+
             hola
-=======
->>>>>>> e5dda5c95653f6e043bd0aeba88bfc8a34a8ba94
+            cola
+
         </p>
     </body>
 </html>
