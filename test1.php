@@ -95,6 +95,7 @@ print_r($recipes);
 echo '</pre>'; 
 $c="je suis anas";
 echo strlen($c)?>
+rien a faire
 
 
 </html>
